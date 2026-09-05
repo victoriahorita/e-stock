@@ -40,7 +40,7 @@ O projeto foi organizado de forma modular, separando a interface gráfica, as fu
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/e-stock.git
+git clone https://github.com/victoriahorita/e-stock
 cd e-stock
 ```
 
